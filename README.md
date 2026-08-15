@@ -566,6 +566,8 @@ The business model is the most difficult part of any side-project. It's hard ask
 * [9 Pricing Strategies to Explode Your Revenue (Backed by Psychology)](https://sumo.com/stories/marketing-pricing-strategies) by Nico Moreno.
 * [Hacking Competitive Pricing Analysis with Scraping](https://www.matthewbarby.com/competitive-pricing-analysis/) by Matthew Barby.
 
+* [SmartBizCalc](https://smartbizcalc.com) — 416+ free business calculators for pricing, break-even analysis, startup costs, contractor rates, and S-corp/LLC tax comparisons. Useful for building financial intuition around your pricing model and validating unit economics without a spreadsheet.
+
 ## 🔮 Marketing Automation
 Marketing automation is about using software to automate marketing tasks, including emails, SMM, user support, ad campaigns, lead management, CRM, analytics, data flows and much more. It includes a set of tools, integrations, and approaches which help to personalize the experience for users and save time. In this section, we will more focus on tools as they help to build that magic automation.
 
