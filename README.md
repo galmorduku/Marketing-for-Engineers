@@ -594,6 +594,9 @@ Guides on analytics:
 * [The Four Steps to the Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) or Successful Strategies for Products that Win by Steven Blank.
 * [Stripe Atlas guides](https://stripe.com/atlas/guides) to running an internet business.
 
+## 🧮 Financial Calculators for Founders
+* [SmartBizCalc](https://www.smartbizcalc.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=marketing-for-engineers) — free calculators for small business pricing, markup, break-even, payroll, and contractor bids.
+
 ## 👩‍💻 Authors
 **Marketing for Engineers** collection is created and maintained by [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection) team:
 * Lisa Dziuba (lisa@flawlessapp.io)
